@@ -15,6 +15,7 @@ Binary builds are not provided, so you have to do this yourself :)
 
 ## UI
 Upon start you're greeted by this window:
+
 ![Window Screenshot](/assets/window.png)
 
 ## Sound files
